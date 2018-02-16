@@ -377,6 +377,7 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 65927961806896614, guid: 985f4bafbd3a17d43bc560ec98fd6f2d,
         type: 2}
       propertyPath: m_IsTrigger
@@ -387,6 +388,8 @@ Prefab:
       propertyPath: _turnSpeed
       value: 90
       objectReference: {fileID: 0}
+=======
+>>>>>>> cb7e2eacb93ccf184fa0bb5c332b7f836460f56d
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 985f4bafbd3a17d43bc560ec98fd6f2d, type: 2}
   m_IsPrefabParent: 0
